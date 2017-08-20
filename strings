@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Tarea semana 3 "</string>
+    <string name="text_view">"Bienvenido"</string>
+    <string name="Button">"Entrar"</string>
+</resources>
