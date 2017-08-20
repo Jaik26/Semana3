@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Tarea semana 3 "</string>
+    <string name="text_view">"Welcome"</string>
+    <string name="Button">"Enter"</string>
+</resources>
